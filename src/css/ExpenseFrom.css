@@ -6,6 +6,10 @@
     text-align: left;
   }
   
+  /* .manImg {
+    background-image: url('../images/android-chrome-192x192.png');
+  } */
+
   .new-expense__control label {
     font-weight: bold;
     margin-bottom: 0.5rem;
